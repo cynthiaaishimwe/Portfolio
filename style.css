@@ -92,7 +92,7 @@ body{
    margin-bottom: 20%; 
 }
 .home .home-content h1{
-   /* margin-bottom: 15%;  */
+  
 }
 
 .home-content h3{
@@ -145,8 +145,12 @@ body{
    letter-spacing: 1px;
     font-weight: 600; 
 
-
 }
+ .home .home-content p{
+  font-size: 50px;
+ font-family: sans-serif;
+ margin-top: 20px;
+} 
 
 
 
